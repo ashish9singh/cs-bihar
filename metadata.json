@@ -1,0 +1,8 @@
+{
+  "name": "BSEBwala.in",
+  "description": "BSEBwala.in: सीखिए Computer Science, समझिए अपनी भाषा में! Bihar Board Classes 9-12 Computer Science companion with bilingual learning modules, interactive C++ & SQL labs, exam prep, flashcards, and AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
